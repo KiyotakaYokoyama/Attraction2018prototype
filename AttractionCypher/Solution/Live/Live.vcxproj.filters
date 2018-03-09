@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Live.cpp" />
+    <ClCompile Include="BoardViewer.cpp" />
+    <ClCompile Include="TitleViewer.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Live.h" />
+    <ClInclude Include="BoardViewer.h" />
+    <ClInclude Include="TitleViewer.h" />
+  </ItemGroup>
+</Project>

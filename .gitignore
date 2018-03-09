@@ -1,0 +1,16 @@
+AttractionCypher/Solution/Log.txt
+*.db
+*.suo
+AttractionCypher/Solution/.vs/
+AttractionCypher/Solution/Common/x64/
+AttractionCypher/Solution/Controller/x64/
+AttractionCypher/Solution/Cypher/Log.txt
+AttractionCypher/Solution/Cypher/x64/
+AttractionCypher/Solution/Live/x64/
+AttractionCypher/Solution/x64/
+Framework2018/.vs/
+Framework2018/ModelMaker/x64/
+Framework2018/Test/Log.txt
+Framework2018/Test/Resource/
+Framework2018/x64/
+Framework2018/Test/x64/

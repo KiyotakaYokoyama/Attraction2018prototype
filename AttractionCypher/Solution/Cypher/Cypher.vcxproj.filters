@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="Area.cpp" />
+    <ClCompile Include="Status.cpp" />
+    <ClCompile Include="Bullet.cpp" />
+    <ClCompile Include="ScenePlay.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneSelect.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="MusicSync.cpp" />
+    <ClCompile Include="SceneGameOver.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneWaitScreen.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="Area.h" />
+    <ClInclude Include="Status.h" />
+    <ClInclude Include="Bullet.h" />
+    <ClInclude Include="ScenePlay.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneSelect.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="FadePanelPos.h" />
+    <ClInclude Include="MusicSync.h" />
+    <ClInclude Include="SceneGameOver.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneWaitScreen.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Scene">
+      <UniqueIdentifier>{e5043aff-3b16-4c40-a8fd-53917edd9250}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
